@@ -30,7 +30,7 @@ function Navbar() {
             textTransform={"uppercase"}
         
        >
-        <Link to={"/"}>Product Store 
+        <Link to={"/"}>Artsy 
         
         </Link>
        </Text>
